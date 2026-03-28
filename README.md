@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hitesh-lakamble-961437297/" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20LinkedIn-Hitesh%20Lakamble-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/hitesh-lakamble-961437297/">
+    <img src="https://img.shields.io/badge/🔗%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <a href="mailto:hiteshlakamble@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/📧%20Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:hiteshlakamble@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
